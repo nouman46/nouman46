@@ -10,11 +10,11 @@ I am a software engineer focused on building robust data infrastructures and sca
 
 ### 🔭 What I'm Working On
 
-- 🛠 **ETL Pipeline Automation:** streamlining data ingestion using SSIS and SQL Server.
-- 🏗 **Microservices Architecture:** designing scalable backends with Node.js and React.
-- ⚡ **API Optimization:** reducing latency and improving data retrieval speeds.
-- 🤖 **AI Integration:** exploring ways to embed AI logic into traditional backend workflows.
-- 📊 **Database Design:** architecting schemas for high-availability reporting systems.
+- **Automated ETL Pipelines & Data Warehousing** (SSIS/SQL)
+- **Scalable Microservices Architecture** (Node.js + React)
+- **High-Performance API Optimization & Caching**
+- **AI-Integrated Backend Workflows**
+- **Enterprise Database Schema Design**
 
 ---
 
@@ -53,5 +53,11 @@ Outside of code — I have a life too! 😄
 ---
 
 ### 📊 GitHub Stats
-![Nauman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouman46&show_icons=true&theme=radical)
-![Nauman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nouman46&layout=compact&theme=radical)
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nouman46&show_icons=true&theme=radical&count_private=true" alt="Nauman's GitHub Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouman46&layout=compact&theme=radical" alt="Nauman's Top Languages" />
+</p>
