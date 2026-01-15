@@ -1,48 +1,52 @@
 ### Hi there, I'm Nauman! 👋
 
-**Data Engineer & Backend Developer | M.Sc. Artificial Intelligence @ BTU Cottbus**
+**Data Engineer & Backend Developer | M.Sc. Student @ BTU Cottbus**
 
-I am a software engineer with **2+ years of experience** building scalable data infrastructures and backend systems. Currently, I am specializing in **AI Engineering**, bridging the gap between traditional software architecture and intelligent agents.
+I am a software engineer focused on building robust data infrastructures and scalable backend systems. I bridge the gap between complex data pipelines and user-facing applications—ensuring data doesn't just exist, but flows efficiently.
 
-- 🔭 **I’m currently working on:** Advanced Data Engineering pipelines and AI-integrated applications.
-- 🎓 **Previously at:** Rasant Solutions (Data & Backend Engineer).
-- 🌱 **Focus:** Moving data efficiently (ETL) and building robust backends (Node.js/Microservices).
+**My mission:** To architect systems that are scalable, reliable, and ready for real-world production.
 
 ---
 
-### 🛠 Tech Stack
+### 🔭 What I'm Working On
 
-**⚙️ Data Engineering & Database**
+- 🛠 **ETL Pipeline Automation:** streamlining data ingestion using SSIS and SQL Server.
+- 🏗 **Microservices Architecture:** designing scalable backends with Node.js and React.
+- ⚡ **API Optimization:** reducing latency and improving data retrieval speeds.
+- 🤖 **AI Integration:** exploring ways to embed AI logic into traditional backend workflows.
+- 📊 **Database Design:** architecting schemas for high-availability reporting systems.
+
+---
+
+### ⚡ Fun Fact & Interests
+
+Outside of code — I have a life too! 😄
+
+- 🍳 **Home Chef:** Mastering the art of Pakistani cuisine (ask me about my Biryani).
+- ✈️ **Traveler:** Exploring Europe one city at a time (recently fell in love with Valencia).
+- 🥋 **MMA Fan:** Big fan of UFC and mixed martial arts.
+- 🎥 **Content Creation:** Creating videos about life in Germany and cultural shocks.
+
+---
+
+### 🌐 Socials
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nauman-nasir7/)
+
+---
+
+### 💻 Tech Stack
+
+**Data Engineering**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![SSIS](https://img.shields.io/badge/SSIS-ETL-blue?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-**💻 Backend & Architecture**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-Architecture-orange?style=flat) ![API](https://img.shields.io/badge/REST%20APIs-Optimization-green?style=flat)
+**Backend & App Dev**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**🤖 AI & Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
----
-
-### 📂 Featured Projects
-
-**1. Labour Hiring Platform (`labour-hiring-app`)**
-A full-stack application designed to streamline the recruitment process for manual labor markets.
-- **Tech:** React, Node.js, REST APIs.
-- **Key Features:** User role management, real-time job posting updates, and secure authentication flows.
-
-**2. Corporate Resource Manager (`team-managment`)**
-A backend system for managing team allocations and project resources efficiently.
-- **Tech:** Node.js, Database Design, CRUD Optimization.
-- **Key Features:** Optimized database queries for employee tracking and dynamic resource allocation logic.
+**Tools & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 💼 Professional Experience Highlights
-* **ETL Automation:** Engineered SSIS pipelines at *Rasant Solutions* to automate data movement, reducing manual reporting time.
-* **Performance Tuning:** Optimized SQL schemas and API endpoints, achieving a **35% increase** in transaction processing efficiency.
-* **System Design:** Deployed scalable microservices architectures for high-traffic inventory systems.
-
----
-
-### 📬 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nauman-nasir7/)
+### 📊 GitHub Stats
+![Nauman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouman46&show_icons=true&theme=radical)
+![Nauman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nouman46&layout=compact&theme=radical)
