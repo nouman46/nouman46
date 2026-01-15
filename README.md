@@ -1,26 +1,25 @@
 ### Hi there, I'm Nauman! 👋
 
-**Data Engineer & Backend Developer | M.Sc. Student @ BTU Cottbus**
+**M.Sc. Artificial Intelligence Student @ BTU Cottbus | AI Engineer & Data Architect**
 
-I am a software engineer focused on building robust data infrastructures and scalable backend systems. I bridge the gap between complex data pipelines and user-facing applications—ensuring data doesn't just exist, but flows efficiently.
+I am a software engineer specializing in the intersection of **Artificial Intelligence** and **Data Engineering**. I don't just build models; I architect the robust backend systems and data pipelines required to make AI production-ready.
 
-**My mission:** To architect systems that are scalable, reliable, and ready for real-world production.
+**My mission:** Developing intelligent, autonomous systems that reason, retrieve, and execute at scale.
 
 ---
 
 ### 🔭 What I'm Working On
 
-- **Automated ETL Pipelines & Data Warehousing** (SSIS/SQL)
-- **Scalable Microservices Architecture** (Node.js + React)
-- **High-Performance API Optimization & Caching**
-- **AI-Integrated Backend Workflows**
-- **Enterprise Database Schema Design**
-
+- **Agentic AI Workflows:** Building reasoning-capable systems using LangChain/LangGraph.
+- **Advanced RAG Architectures:** Optimizing retrieval-augmented generation for large datasets.
+- **AI-Integrated Applications:** Embedding LLMs into scalable Node.js/React environments.
+- **Automated Data Engines:** High-performance ETL pipelines (SSIS/SQL) for AI training data.
+- **Vector Database Optimization:** Architecting schemas for efficient semantic search.
 ---
 
 ### ⚡ Fun Fact & Interests
 
-Outside of code — I have a life too! 😄
+I have a life too! 😄
 
 - 🍳 **Home Chef:** Mastering the art of Pakistani cuisine (ask me about my Biryani).
 - ✈️ **Traveler:** Exploring Europe one city at a time (recently fell in love with Valencia).
