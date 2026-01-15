@@ -25,12 +25,17 @@ Outside of code — I have a life too! 😄
 - 🍳 **Home Chef:** Mastering the art of Pakistani cuisine (ask me about my Biryani).
 - ✈️ **Traveler:** Exploring Europe one city at a time (recently fell in love with Valencia).
 - 🥋 **MMA Fan:** Big fan of UFC and mixed martial arts.
-- 🎥 **Content Creation:** Creating videos about life in Germany and cultural shocks.
+- 🎥 **Content Creation:** Sharing my journey of life in Germany on Instagram.
 
 ---
 
-### 🌐 Socials
+### 🌐 Socials & Contact
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nauman-nasir7/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/naumannasirlife/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:bajwanoumanupdate@gmail.com)
+
+**📧 Email:** bajwanoumanupdate@gmail.com
 
 ---
 
