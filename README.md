@@ -2,7 +2,9 @@
 
 **M.Sc. Artificial Intelligence Student @ BTU Cottbus | AI Engineer & Data Architect**
 
-I am a software engineer specializing in the intersection of **Artificial Intelligence** and **Data Engineering**. I don't just build models; I architect the robust backend systems and data pipelines required to make AI production-ready.
+I’m an AI/ML Engineer with 3+ years of experience designing intelligent, agent-driven systems and deploying production-ready RAG pipelines. I’m currently pursuing a Master’s in Artificial Intelligence at BTU Cottbus-Senftenberg, Germany.
+
+I focus on building scalable AI solutions that bridge cutting-edge research and practical applications. I’m particularly interested in autonomous systems capable of reasoning and making decisions reliably in real-world scenarios.
 
 **My mission:** Developing intelligent, autonomous systems that reason, retrieve, and execute at scale.
 
